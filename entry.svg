@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Paper and frame -->
+  <rect width="1024" height="1024" fill="#f7f3e8"/>
+  <rect x="8" y="8" width="1008" height="1008" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+
+  <!-- Masthead -->
+  <text x="512" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="bold" letter-spacing="8" fill="#1a1a1a">THE WORLD</text>
+  <line x1="48" y1="120" x2="976" y2="120" stroke="#1a1a1a" stroke-width="2.5"/>
+  <text x="512" y="168" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="bold" letter-spacing="2" fill="#b3271e">TUESDAY 17 NOVEMBER 2026</text>
+
+  <!-- ============ HERO: KERCH BRIDGE ============ -->
+  <rect x="32" y="192" width="960" height="252" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"/>
+  <!-- night sky art -->
+  <rect x="32" y="192" width="380" height="252" fill="#16283f"/>
+  <circle cx="70" cy="220" r="2" fill="#ffffff"/><circle cx="150" cy="212" r="1.5" fill="#ffffff"/>
+  <circle cx="300" cy="226" r="2" fill="#ffffff"/><circle cx="352" cy="252" r="1.5" fill="#ffffff"/>
+  <circle cx="120" cy="272" r="1.5" fill="#ffffff"/><circle cx="386" cy="300" r="2" fill="#ffffff"/>
+  <!-- broken bridge deck -->
+  <rect x="48" y="318" width="150" height="14" fill="#8a8f96"/>
+  <rect x="238" y="318" width="150" height="14" fill="#8a8f96"/>
+  <rect x="70" y="332" width="10" height="68" fill="#6e737a"/>
+  <rect x="340" y="332" width="10" height="68" fill="#6e737a"/>
+  <!-- falling arch fragment -->
+  <g transform="rotate(28 218 360)"><rect x="202" y="352" width="34" height="12" fill="#8a8f96"/></g>
+  <path d="M204 374 l8 12 M218 376 l0 12 M232 374 l-8 12" stroke="#ffffff" stroke-width="2.5" fill="none"/>
+  <path d="M196 388 q22 -10 44 0" stroke="#ffffff" stroke-width="2" fill="none" opacity="0.8"/>
+  <!-- explosion at the gap -->
+  <polygon points="218,268 224,288 242,282 230,296 244,308 226,308 222,326 214,310 196,314 206,298 192,290 210,288" fill="#f5a623"/>
+  <circle cx="218" cy="297" r="7" fill="#e25822"/>
+  <!-- water -->
+  <rect x="32" y="400" width="380" height="44" fill="#2e6da4"/>
+  <path d="M40 414 q15 -8 30 0 t30 0 t30 0 t30 0 t30 0 t30 0 t30 0 t30 0" stroke="#ffffff" stroke-width="2.5" fill="none"/>
+  <path d="M56 430 q15 -8 30 0 t30 0 t30 0 t30 0 t30 0 t30 0 t30 0" stroke="#ffffff" stroke-width="2.5" fill="none" opacity="0.7"/>
+  <!-- hero text -->
+  <text x="440" y="234" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" letter-spacing="1" fill="#b3271e">UKRAINE — CRIMEA</text>
+  <text x="440" y="278" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="bold" fill="#1a1a1a">KERCH BRIDGE</text>
+  <text x="440" y="322" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="bold" fill="#1a1a1a">FALLS AGAIN</text>
+  <text x="440" y="368" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#333333">Second day of strikes drops a road span</text>
+  <text x="440" y="396" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#333333">and an arch; Russia hits Kyiv bridges in reply.</text>
+
+  <!-- ============ ROW OF THREE ============ -->
+  <!-- Panel A: Bahrain drones -->
+  <rect x="32" y="460" width="304" height="230" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"/>
+  <rect x="32" y="460" width="304" height="96" fill="#dfe9f2"/>
+  <!-- drone -->
+  <line x1="184" y1="508" x2="156" y2="492" stroke="#2b2b2b" stroke-width="3"/>
+  <line x1="184" y1="508" x2="212" y2="492" stroke="#2b2b2b" stroke-width="3"/>
+  <line x1="184" y1="508" x2="156" y2="524" stroke="#2b2b2b" stroke-width="3"/>
+  <line x1="184" y1="508" x2="212" y2="524" stroke="#2b2b2b" stroke-width="3"/>
+  <ellipse cx="156" cy="492" rx="14" ry="3" fill="#555555"/>
+  <ellipse cx="212" cy="492" rx="14" ry="3" fill="#555555"/>
+  <ellipse cx="156" cy="524" rx="14" ry="3" fill="#555555"/>
+  <ellipse cx="212" cy="524" rx="14" ry="3" fill="#555555"/>
+  <ellipse cx="184" cy="508" rx="24" ry="11" fill="#2b2b2b"/>
+  <circle cx="184" cy="520" r="3" fill="#b3271e"/>
+  <!-- radar dish -->
+  <line x1="66" y1="522" x2="66" y2="550" stroke="#1a1a1a" stroke-width="3"/>
+  <path d="M52 522 A16 16 0 0 1 80 522" stroke="#1a1a1a" stroke-width="3" fill="none"/>
+  <path d="M46 516 A24 24 0 0 1 86 516" stroke="#b3271e" stroke-width="2" fill="none"/>
+  <path d="M40 510 A32 32 0 0 1 92 510" stroke="#b3271e" stroke-width="2" fill="none" opacity="0.6"/>
+  <text x="48" y="580" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" letter-spacing="1" fill="#b3271e">MIDDLE EAST — BAHRAIN</text>
+  <text x="48" y="608" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#1a1a1a">IRAN DRONES TARGET</text>
+  <text x="48" y="636" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#1a1a1a">U.S. RADAR</text>
+  <text x="48" y="660" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333333">Third attack in five days;</text>
+  <text x="48" y="678" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333333">Bahrain intercepts, no casualties.</text>
+
+  <!-- Panel B: Trump in Manila -->
+  <rect x="360" y="460" width="304" height="230" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"/>
+  <rect x="360" y="460" width="304" height="96" fill="#f2e8c9"/>
+  <!-- four Quad flags -->
+  <line x1="392" y1="472" x2="392" y2="548" stroke="#1a1a1a" stroke-width="2"/>
+  <line x1="462" y1="472" x2="462" y2="548" stroke="#1a1a1a" stroke-width="2"/>
+  <line x1="532" y1="472" x2="532" y2="548" stroke="#1a1a1a" stroke-width="2"/>
+  <line x1="602" y1="472" x2="602" y2="548" stroke="#1a1a1a" stroke-width="2"/>
+  <!-- US flag -->
+  <rect x="392" y="472" width="52" height="32" fill="#b22234"/>
+  <rect x="392" y="478" width="52" height="5" fill="#ffffff"/>
+  <rect x="392" y="490" width="52" height="5" fill="#ffffff"/>
+  <rect x="392" y="502" width="52" height="5" fill="#ffffff"/>
+  <rect x="392" y="472" width="22" height="16" fill="#3c3b6e"/>
+  <!-- Japan flag -->
+  <rect x="462" y="472" width="52" height="32" fill="#ffffff" stroke="#cccccc" stroke-width="1"/>
+  <circle cx="488" cy="488" r="8" fill="#bc002d"/>
+  <!-- India flag -->
+  <rect x="532" y="472" width="52" height="11" fill="#ff9933"/>
+  <rect x="532" y="483" width="52" height="10" fill="#ffffff"/>
+  <rect x="532" y="493" width="52" height="11" fill="#138808"/>
+  <circle cx="558" cy="488" r="3.5" fill="#000080"/>
+  <!-- Australia flag -->
+  <rect x="602" y="472" width="52" height="32" fill="#00247d"/>
+  <circle cx="612" cy="482" r="2" fill="#ffffff"/><circle cx="640" cy="480" r="2" fill="#ffffff"/>
+  <circle cx="626" cy="496" r="2" fill="#ffffff"/><circle cx="646" cy="498" r="2" fill="#ffffff"/>
+  <text x="376" y="580" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" letter-spacing="1" fill="#b3271e">ASIA — QUAD SUMMIT</text>
+  <text x="376" y="608" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#1a1a1a">TRUMP LANDS IN</text>
+  <text x="376" y="636" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#1a1a1a">MANILA</text>
+  <text x="376" y="660" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333333">First Quad meeting since his return;</text>
+  <text x="376" y="678" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333333">1,500 protest; Shenzhen next.</text>
+
+  <!-- Panel C: EU Rwanda hub -->
+  <rect x="688" y="460" width="304" height="230" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"/>
+  <rect x="688" y="460" width="304" height="96" fill="#dbe7f3"/>
+  <!-- EU stars circle -->
+  <g fill="#f2c200">
+    <circle cx="784" cy="508" r="3"/><circle cx="780" cy="522" r="3"/><circle cx="770" cy="532" r="3"/>
+    <circle cx="756" cy="536" r="3"/><circle cx="742" cy="532" r="3"/><circle cx="732" cy="522" r="3"/>
+    <circle cx="728" cy="508" r="3"/><circle cx="732" cy="494" r="3"/><circle cx="742" cy="484" r="3"/>
+    <circle cx="756" cy="480" r="3"/><circle cx="770" cy="484" r="3"/><circle cx="780" cy="494" r="3"/>
+  </g>
+  <!-- arrow to Rwanda -->
+  <line x1="800" y1="508" x2="878" y2="508" stroke="#1a1a1a" stroke-width="4"/>
+  <polygon points="878,500 878,516 892,508" fill="#1a1a1a"/>
+  <rect x="896" y="488" width="64" height="40" rx="8" fill="#2e7d32"/>
+  <circle cx="928" cy="508" r="6" fill="#f7d117"/>
+  <text x="704" y="580" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" letter-spacing="1" fill="#b3271e">EUROPE — MIGRATION</text>
+  <text x="704" y="608" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#1a1a1a">EU PLANS RWANDA</text>
+  <text x="704" y="636" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#1a1a1a">RETURN HUB</text>
+  <text x="704" y="660" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333333">Five states to send rejected</text>
+  <text x="704" y="678" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333333">asylum seekers; from 2027.</text>
+
+  <!-- ============ ROW OF TWO WIDE PANELS ============ -->
+  <!-- Panel D: Japan jets -->
+  <rect x="32" y="706" width="468" height="234" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"/>
+  <rect x="32" y="706" width="170" height="234" fill="#fde8e0"/>
+  <circle cx="117" cy="800" r="52" fill="#d94f3d"/>
+  <!-- jet -->
+  <polygon points="58,802 120,788 168,796 120,800 168,804 120,812 58,802" fill="#2b2b2b"/>
+  <polygon points="70,802 88,782 96,802" fill="#2b2b2b"/>
+  <polygon points="100,800 130,824 140,800" fill="#2b2b2b"/>
+  <ellipse cx="80" cy="880" rx="30" ry="10" fill="#ffffff"/>
+  <ellipse cx="150" cy="902" rx="26" ry="9" fill="#ffffff"/>
+  <text x="216" y="748" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" letter-spacing="1" fill="#b3271e">JAPAN</text>
+  <text x="216" y="780" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" fill="#1a1a1a">JETS SCRAMBLE</text>
+  <text x="216" y="812" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" fill="#1a1a1a">OVER AIRSPACE</text>
+  <text x="216" y="846" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#333333">Two suspected Russian aircraft</text>
+  <text x="216" y="870" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#333333">violate airspace; Tokyo protests.</text>
+
+  <!-- Panel E: Yemen -->
+  <rect x="524" y="706" width="468" height="234" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"/>
+  <rect x="524" y="706" width="170" height="234" fill="#efe3c2"/>
+  <!-- coastline and sea -->
+  <path d="M524 940 L524 880 Q580 860 640 884 Q680 898 694 940 Z" fill="#3d7ea6"/>
+  <!-- advancing arrows -->
+  <g stroke="#b3271e" stroke-width="5" fill="#b3271e">
+    <line x1="560" y1="760" x2="606" y2="806"/>
+    <polygon points="606,806 590,804 604,790" stroke="none"/>
+    <line x1="600" y1="740" x2="646" y2="786"/>
+    <polygon points="646,786 630,784 644,770" stroke="none"/>
+    <line x1="640" y1="770" x2="676" y2="806"/>
+    <polygon points="676,806 662,806 672,790" stroke="none"/>
+  </g>
+  <!-- small buildings on the sand above the shore -->
+  <rect x="640" y="872" width="14" height="18" fill="#5a4632"/>
+  <rect x="658" y="864" width="12" height="26" fill="#5a4632"/>
+  <text x="708" y="748" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" letter-spacing="1" fill="#b3271e">YEMEN</text>
+  <text x="708" y="780" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="bold" fill="#1a1a1a">HOUTHIS ADVANCE</text>
+  <text x="708" y="812" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="bold" fill="#1a1a1a">TROOPS RETREAT</text>
+  <text x="708" y="846" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#333333">Government forces pull back from</text>
+  <text x="708" y="870" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#333333">Red Sea coast to defend Aden.</text>
+
+  <!-- Footer -->
+  <text x="512" y="968" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#666666">THE WORLD — SIX STORIES FROM TUESDAY 17 NOVEMBER 2026</text>
+</svg>
